@@ -1,0 +1,26 @@
+* {
+    font-family: "Roboto", "Arial";
+}
+body {
+    margin: 12px;
+}
+
+.numberInput {
+    width: 5em;
+}
+button {
+    cursor: pointer;
+}
+button:hover {
+    font-weight: bold;
+}
+.buttonGenerate {
+    display: inline;
+}
+.buttonReset {
+    display: none;
+}
+.buttonShuffle {
+    display: none;
+    margin-left: 10px;
+}
